@@ -15,7 +15,7 @@ dependencies {
 
     // Logging
     implementation group: 'net.logstash.logback', name: 'logstash-logback-encoder', version: '7.3'
-    implementation group: 'org.slf4j', name: 'slf4j-api', version: '1.7.32'
+    implementation group: 'org.slf4j', name: 'slf4j-api', version: '2.0.17'
 
     // Jackson
     implementation group: 'com.fasterxml.jackson.core', name: 'jackson-annotations', version: '2.18.2'
