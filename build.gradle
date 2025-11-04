@@ -14,7 +14,7 @@ dependencies {
     implementation group: 'com.squareup.moshi', name: 'moshi-adapters', version: '1.9.2'
 
     // Logging
-    implementation group: 'net.logstash.logback', name: 'logstash-logback-encoder', version: '7.3'
+    implementation group: 'net.logstash.logback', name: 'logstash-logback-encoder', version: '9.0'
     implementation group: 'org.slf4j', name: 'slf4j-api', version: '1.7.32'
 
     // Jackson
