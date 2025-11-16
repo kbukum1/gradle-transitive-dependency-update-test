@@ -10,8 +10,8 @@ dependencies {
     implementation project(':model')
 
     implementation 'com.squareup.okhttp3:okhttp:4.11.0'
-    implementation group: 'com.squareup.moshi', name: 'moshi', version: '1.9.2'
-    implementation group: 'com.squareup.moshi', name: 'moshi-adapters', version: '1.9.2'
+    implementation group: 'com.squareup.moshi', name: 'moshi', version: '1.15.2'
+    implementation group: 'com.squareup.moshi', name: 'moshi-adapters', version: '1.15.2'
 
     // Logging
     implementation group: 'net.logstash.logback', name: 'logstash-logback-encoder', version: '7.3'
